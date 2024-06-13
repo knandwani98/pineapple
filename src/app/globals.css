@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pa-header-container {
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+.pa-container {
+  max-width: 1080px;
+  margin: 0 auto;
+}

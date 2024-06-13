@@ -1,0 +1,92 @@
+{
+  "navLinks": [
+    {
+      "label": "Store",
+      "link": "/store",
+      "children": [
+        {
+          "label": "Shop the Latest",
+          "link": "/store"
+        },
+        {
+          "label": "Mac",
+          "link": "/store/buy-mac"
+        },
+        {
+          "label": "iPad",
+          "link": "/store/buy-ipad"
+        },
+        {
+          "label": "iPhone",
+          "link": "/store/buy-iphone"
+        },
+        {
+          "label": "Apple Watch",
+          "link": "/store/buy-watch"
+        },
+        {
+          "label": "Accessories",
+          "link": "/shop/accessories/all"
+        }
+      ]
+    },
+    {
+      "label": "Mac",
+      "link": "/mac",
+      "children": [
+        {
+          "label": "Explore All Mac",
+          "link": "/mac"
+        },
+        {
+          "label": "MacBook Air",
+          "link": "/mac/macbook-air"
+        },
+        {
+          "label": "MacBook Pro",
+          "link": "/mac/macbook-pro"
+        },
+        {
+          "label": "iMac",
+          "link": "/mac/imac"
+        },
+        {
+          "label": "Mac Mini",
+          "link": "/mac/mac-mini"
+        },
+        {
+          "label": "Mac Studio",
+          "link": "/mac/mac-studio"
+        },
+        {
+          "label": "Mac Pro",
+          "link": "/mac/mac-pro"
+        },
+        {
+          "label": "Displays",
+          "link": "/displays"
+        }
+      ]
+    },
+    {
+      "label": "iPad",
+      "link": "/ipad"
+    },
+    {
+      "label": "iPhone",
+      "link": "/iphone"
+    },
+    {
+      "label": "Watch",
+      "link": "/watch"
+    },
+    {
+      "label": "AirPods",
+      "link": "/airpods"
+    },
+    {
+      "label": "Accessories",
+      "link": "/shop/accessories"
+    }
+  ]
+}
